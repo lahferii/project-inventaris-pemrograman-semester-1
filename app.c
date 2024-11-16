@@ -3,10 +3,9 @@
 #include <string.h>
 
 // import service yang sudah dibuat
+#include "libs/utils/utils.h"
 #include "libs/service/service.h"
 #include "libs/auth/auth.h"
-#include "libs/utils/utils.h"
-
 
 int main() {
   while(1){

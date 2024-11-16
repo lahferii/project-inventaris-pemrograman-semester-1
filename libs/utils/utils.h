@@ -14,7 +14,7 @@ void help(){
 }
 
 void clearConsole(){
-  printf("\e[1;1H\e[2J");
+  system("cls");
 }
 
 void stopApp(){
