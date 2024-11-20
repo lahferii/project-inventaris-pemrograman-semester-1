@@ -1,7 +1,7 @@
 #ifndef AUTH_H
 #define AUTH_H
 
-int hasLogin = 0;
+int hasLogin = 1;
 
 int login(){
   char username[6];
