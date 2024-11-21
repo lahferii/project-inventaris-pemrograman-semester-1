@@ -214,8 +214,8 @@ void sortData(int mode){
   if(datasCurrentSize == 0){
     printf("\nInventaris kamu kosong ^_^\n\n");
   } else {
-    // jika mode bernilai 1, urutkan barang berdasarkan nama
-    // jika mode bernilai 2, urutkan barang berdasarkan stok
+    // jika variabel mode bernilai 1, urutkan barang berdasarkan nama
+    // jika variabel mode bernilai 2, urutkan barang berdasarkan stok
     if(mode == 1){
       printf("\nSorted By Name\n\n");
 

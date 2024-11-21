@@ -1,16 +1,70 @@
 # Project Semester 1
 
-Program sederhana untuk mengelola data inventaris
+Program super sederhana untuk mengelola data inventaris
 
-## Fitur
+## Creating Data
 
-- Create Data
-- Read Data
-- Update Data
-- Delete Data
-- Search Data
-- Sort Data By Name
-- Sort Data By Stock
-- Admin Level Authentication
-- Guest Level Authentication (work in progress)
-- Static Site Generator (work in progress)
+```bash
+px create
+```
+
+## Reading Data
+
+```bash
+px show
+```
+
+## Updating Data
+
+```bash
+px edit
+```
+
+## Deleting Data
+
+```bash
+px delete
+```
+
+## Searching Data
+
+```bash
+px search
+```
+
+## Sorting Data
+
+Mengurutkan data berdasarkan abjad
+
+```bash
+px sort by name
+```
+
+Mengurutkan data berdasarkan jumlah 
+
+```bash
+px sort by stock
+```
+
+## Other Features
+
+- Clear Console
+
+```bash
+px cls
+```
+
+- showing list of command
+
+```bash
+px help
+```
+
+- stoping application
+
+```bash
+px .exit
+```
+
+- Multilevel Authentication (In Progress)
+- Static Site Generator (In Progress)
