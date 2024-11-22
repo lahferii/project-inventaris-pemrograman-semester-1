@@ -1,6 +1,6 @@
 # Project Semester 1
 
-Program super sederhana untuk mengelola data inventaris
+Program sederhana untuk mengelola data inventaris, dikembangkan dengan C, HTML, dan Tailwindcss.
 
 ## Creating Data
 
